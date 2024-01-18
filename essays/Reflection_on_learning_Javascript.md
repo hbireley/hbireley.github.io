@@ -17,7 +17,6 @@ What I like about JavaScript
 
 The thing I like in javascript is that there are more array functions and the function makes it easier to add data to an array. 
 The other thing is printing out arrays is way easier in javascript then in other languages because in javascript it's just one line of code not using a loop and printing out one index at a time.
-
 I also like that in javascript you do not have to say what the data type of the variable is, you can just make a variable and put whatever you want in it. I think that this might make it hard 
 for some people to debug code or passing parameters to function because you might change the variable type and not realize it and with parameters the coder does not know what data type is being passed to the function.
 I think that this might make it hard for some people to debug code or passing parameters to function because you might change the variable type and not realize it and with parameters the coder does not know what data type is being passed to the function.
