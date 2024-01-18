@@ -10,9 +10,8 @@ labels:
 ---
 
 
-Learning Javascript was an interesting experience because there are a lot of new things that Javascript has that other programming languages do not.
-
-On that note I can see that some of the things in javascript can be hard to debug some code or to see what a piece of code is doing. On the other hand some things in java script were nice to have and I would like them in other languages.
+Learning Javascript was an interesting experience because there are a lot of new things that Javascript has that other programming languages do not. On that note I can see that some of the things in javascript
+can be hard to debug some code or to see what a piece of code is doing. On the other hand some things in java script were nice to have and I would like them in other languages.
 
 What I like about JavaScript
 
