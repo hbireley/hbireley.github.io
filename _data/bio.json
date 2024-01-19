@@ -7,7 +7,7 @@
     "phone": "669-253-3482",
     "website": "https://hbireley.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1810 University Ave", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hbireley", "url": "http://github.com/hbireley" },
       { "network": "linkedin", "username": "hbireley", "url": "www.linkedin.com/in/hayden-bireley" },
