@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Top-Orthography-Rules..PNG
 title: "Assembly String Library Functions"
-date: 2023
+date: 2022
 published: true
 labels:
   - String
