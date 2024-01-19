@@ -10,7 +10,7 @@
     "location": { "address": "1810 University Ave", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hbireley", "url": "http://github.com/hbireley" },
-      { "network": "linkedin", "username": "hbireley", "url": "https://www.linkedin.com/in/hayden-bireley/" },
+      { "network": "linkedin", "username": "hbireley", "url": "http://www.linkedin.com/in/hayden-bireley/" },
     ]
   },
   "interests": [
