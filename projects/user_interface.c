@@ -1,21 +1,3 @@
-/*****************************************************************
-//
-//  NAME:        Hayden Bireley
-//
-//  HOMEWORK:    project1
-//
-//  CLASS:       ICS 212
-//
-//  INSTRUCTOR:  Ravi Narayan
-//
-//  DATE:        October 30, 2023
-//
-//  FILE:        user_interfase.c
-//
-//  DESCRIPTION: This file is the user interfase for a bank.
-//
-//  **************************************************************/
-
 #include <stdio.h>
 #include <string.h>
 #include "record.h"
