@@ -33,8 +33,7 @@
       "studyType": "B.S.",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": ["Algorithms, Software Engineering, Computer Programming 1 (Java), Data Structures using Advanced Java, C Programming, Program Structure"]
     }
   ],
   "work": [
@@ -44,9 +43,7 @@
       "website": "",
       "startDate": "2020-07",
       "endDate": "2023-08",
-      "summary": "Full-time greenskeeper at The Villages Golf and Country Club. Maintained all aspects of the golf course:  mowing, course setup, edging, raking, blowing and general debris pickup. Required thorough, quality work, worked in teams or individually. Operated mowers, Gators, Workman Utility Vehicles and interacted with guests on the course.",
-      
-      ]
+      "summary": "Full-time greenskeeper at The Villages Golf and Country Club. Maintained all aspects of the golf course:  mowing, course setup, edging, raking, blowing and general debris pickup. Required thorough, quality work, worked in teams or individually. Operated mowers, Gators, Workman Utility Vehicles and interacted with guests on the course."
     },
     {
       "company": "Amberwood Glen HOA",
@@ -54,11 +51,7 @@
       "website": "",
       "startDate": "2013-03",
       "endDate": "2020-04",
-      "summary": "Maintained walking trails in the Amberwood neighborhood. Work included hedge and tree trimming, debris clearing, and invasive plant removal. Required work to be done by strict deadlines.",
-      ]
-    }
-  ],
- 
+      "summary": "Maintained walking trails in the Amberwood neighborhood. Work included hedge and tree trimming, debris clearing, and invasive plant removal. Required work to be done by strict deadlines."
     }
   ]
 }
