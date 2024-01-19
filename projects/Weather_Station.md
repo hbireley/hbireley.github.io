@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Top-Orthography-Rules..PNG
-title: "Assembly String Library Functions"
+title: "Weather Station using Raspberry Pi"
 date: 2022
 published: true
 labels:
