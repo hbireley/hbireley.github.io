@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Top-Orthography-Rules.PNG
+image: img/Top-Orthography-Rules..PNG
 title: "Assembly String Library Functions"
 date: 2022
 published: true
