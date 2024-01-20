@@ -7,11 +7,11 @@ date: 2022
 published: true
 labels:
   - C
-  - Wheather
+  - Weather
   - SQL
-summary: "Used assembly code to write a string library."
+summary: "Recorded weather using Raspberry Pi sensors, stored values in a cloud-based database."
 ---
 
 <img class="img-fluid" src="../img/weather.PNG">
 
-Recorded weather using Raspberry Pi sensors, stored values in a cloud-based database.  Computed averages, low and high temperatures using C and SQL. It camputer weather data for three days and could be use by weather companies. I learned how to do data base programming and using raspberry Pi sensors. 
+Recorded weather using Raspberry Pi sensors, stored values in a cloud-based database. Computed averages, low and high temperatures using C and SQL. It captured weather data for three days and the data was useable by weather companies. I learned how to do database programming and using Raspberry Pi sensors. 
