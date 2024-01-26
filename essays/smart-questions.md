@@ -11,8 +11,6 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 ## The Importants of Asking Smart Question
 
 Have you ever had someone ask you a question that was so confusing and out there that you don’t even know what they're even asking. That is an example of a not smart question or a quest where you have to repeatedly ask the person what they are even asking. A better way of asking questions are the ones that are precise and to the point like smart questions. Smart questions are the ones where you know what the person is asking right away and you don’t have to ponder on what they are asking. As a result of a good smart question it is much easier to form a good answer right away. In academia it is very easy to ask not smart questions because the teacher or professor is paid to answer your question and that is their job to help you learn. As you transfer into the real world, people are not paid to help you or are not willing to help you. So the best chance to get help is to go to forum sites like stackoverflow and ask precise questions that professionals can easily answer and not those where they have to really think about what the person is asking.      
