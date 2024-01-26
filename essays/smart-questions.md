@@ -28,3 +28,7 @@ While searching through Stackoverflow you will find a lot of people asking very 
 ## Conclusion
 
 Overall in my time of coding I have used stackoverflow many times when I am stuck coding. I have found that the more effort you put into your question in forming them and asking them you have a better chance of getting answers. You should accept the amount of effort you put in you are going to receive. With that being said don’t be mad when no one answers your question when you do not put the effort in to make a good smart question.  
+
+
+[Smart Question](https://stackoverflow.com/questions/77878128/add-column-to-data-frame-that-can-identify-changed-rows)
+[Not so Smart Question](https://stackoverflow.com/questions/77878138/parse-html-to-remove-all-span-tags-which-belong-to-a-particular-class-but-keep) 
