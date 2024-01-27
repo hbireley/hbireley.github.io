@@ -24,6 +24,7 @@ Link to the [Smart Question](https://stackoverflow.com/questions/77878128/add-co
 ## Not so Smart Question
 
 While searching through Stackoverflow you will find a lot of people asking very vague and confusing questions. For example, I came across this question that was not really a question, just a person wanting advice on html to remove span tags on his output. His question was phrased poorly and when reading the first time I had a hard time understanding what he wanted to do. I did like that he had an example of the output that he wanted to get with some code. You cannot expect to get a good answer if you have a poorly phrased question. Many people in the community agreed with me in saying that the question was not a smart question,  it received a -3 rating on StackOverFlow.
+
 Link to the [Not so Smart Question](https://stackoverflow.com/questions/77878138/parse-html-to-remove-all-span-tags-which-belong-to-a-particular-class-but-keep) 
 
 
