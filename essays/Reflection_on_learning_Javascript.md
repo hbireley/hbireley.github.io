@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on learning Java Script"
+title: "Diving Into The Vast World of JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
