@@ -14,7 +14,7 @@
 			"countryCode": "USA",
 			"region": "Hawaii"	
 		},
-		"profiles": [
+		"profiles": 
 			{
 				"network": "github",
 				"username": "hbireley",
@@ -24,11 +24,11 @@
 				"network": "linkedin",
 				"username": "hbireley",
 				"url": "http://www.linkedin.com/in/hayden-bireley/"
-			}],
-		"interests": [
+			},
+		"interests": 
 			{"name" : "Cyber Sercurity"},
 		        {"name" : "Software Engineer"},
-		        {"name" : "Coding"}],
+		        {"name" : "Coding"},
 		"skills": [{
 			"name" : "Languages and Frameworks",
 			"keywords": ["C", "C++", "Java", "Javascript", "Assembly"]
