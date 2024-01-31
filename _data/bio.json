@@ -77,32 +77,32 @@
       "position": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Research in software engineering"
+      "summary": ""
  },{
       "organization": "Eagle Scout",
       "website": "",
       "position": "",
-      "startDate": "December 20, 2018",
+      "startDate": "2018",
       "summary": "The rank of Eagle scout is the higest rank in Boy Scouts"},
       {
       "organization": "Member of The Live Oak Emerald Regime Marching Band",
       "website": "",
       "position": "",
-      "startDate": "Fall 2016",
-      "endDate": "Fall 2019",
+      "startDate": "2016",
+      "endDate": "2019",
       },
 	{
 	"organization": "Member of Live Oak Jazz Band",
       "website": "",
       "position": "",
-      "startDate": "Fall 2016",
-      "endDate": "Fall 2019",
+      "startDate": "2016",
+      "endDate": "2019",
       },
 	 {
          "organization": "Member Live Oak Golf team",
       "website": "",
       "position": "",
-      "startDate": "Spring 2019",
+      "startDate": "2019",
       "endDate": "2020"}
 		],
 	 "references": [{
