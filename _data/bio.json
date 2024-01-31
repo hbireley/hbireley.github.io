@@ -12,10 +12,10 @@
 			"postalCode": "96822",
 			"city": "Honolulu",
 			"countryCode": "USA",
-			"region": "Hawaii"
-		}
-	},
-		"profiles": [{
+			"region": "Hawaii"	
+		},
+		"profiles": [
+			{
 				"network": "github",
 				"username": "hbireley",
 				"url": "http://github.com/hbireley"
@@ -25,41 +25,39 @@
 				"username": "hbireley",
 				"url": "http://www.linkedin.com/in/hayden-bireley/"
 			}],
-	"interests": [{"name" : "Cyber Sercurity"},
-		      {"name" : "Software Engineer"},
-		      {"name" : "Coding"}],
-	"skills": [{
+		"interests": [
+			{"name" : "Cyber Sercurity"},
+		        {"name" : "Software Engineer"},
+		        {"name" : "Coding"}],
+		"skills": [{
 			"name" : "Languages and Frameworks",
 			"keywords": ["C", "C++", "Java", "Javascript", "Assembly"]
-		},
-	],
-	"education": [{
-		"institution": "University of Hawaii, Honolulu, HI",
-		"area": "Computer Science (expected Fall, 2025)",
-		"studyType": "B.S.",
-		"startDate": "2023-09-01",
-		"endDate": "Present",
-		"courses": ["Algorithms, Software Engineering, Computer Programming 1 (Java), Data Structures using Advanced Java, C Programming, Program Structure"]
-	}],
-	"work": [{
+			}],
+		"education": [{
+			"institution": "University of Hawaii, Honolulu, HI",
+			"area": "Computer Science (expected Fall, 2025)",
+			"studyType": "B.S.",
+			"startDate": "2023-09-01",
+			"endDate": "Present",
+			"courses": ["Algorithms, Software Engineering, Computer Programming 1 (Java), Data Structures using Advanced Java, C Programming, Program Structure"]
+			}],
+		"work": [{
 			"company": "Golf Management Solutions",
 			"position": "Greenskeeper",
 			"website": "",
 			"startDate": "2020-07",
 			"endDate": "2023-08",
 			"summary": "Full-time greenskeeper at The Villages Golf and Country Club. Maintained all aspects of the golf course:  mowing, course setup, edging, raking, blowing and general debris pickup. Required thorough, quality work, worked in teams or individually. Operated mowers, Gators, Workman Utility Vehicles and interacted with guests on the course."
-		},
-		{
+			},
+			{
 			"company": "Amberwood Glen HOA",
 			"position": "Landscaper",
 			"website": "",
 			"startDate": "2013-03",
 			"endDate": "2020-04",
 			"summary": "Maintained walking trails in the Amberwood neighborhood. Work included hedge and tree trimming, debris clearing, and invasive plant removal. Required work to be done by strict deadlines."
-        
-             }],
+             		}],
 
-	"Activides and HONORS": ["Member of Grey Hats at UH Manoa", "Member of Boy Scout Troop 730", "Eagle Scout | December 20, 2018", "Member of The Live Oak Emerald Regime Marching Band | Fall 2016-2019", "Member of Live Oak Jazz Band | Spring 2018", "Member Live Oak Golf team | Spring of 2019 and 2020"]
-
+		"Activides and HONORS": ["Member of Grey Hats at UH Manoa", "Member of Boy Scout Troop 730", "Eagle Scout | December 20, 2018", "Member of The Live Oak Emerald Regime Marching Band | Fall 2016-2019", "Member of Live Oak Jazz Band | Spring 2018", "Member Live Oak Golf team | Spring of 2019 and 2020"]
 }
 }
