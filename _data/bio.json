@@ -28,7 +28,7 @@
 		"interests": 
 			[{"name" : "Cyber Sercurity"},
 		        {"name" : "Software Engineer"},
-		        {"name" : "Coding"}],
+		        {"name" : "Coding"},],
 		"skills": [{
 			"name" : "Languages and Frameworks",
 			"keywords": ["C", "C++", "Java", "Javascript", "Assembly"]
