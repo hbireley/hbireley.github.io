@@ -65,12 +65,50 @@
  		"endDate": "2020-04",
  		"summary": "Maintained walking trails in the Amberwood neighborhood. Work included hedge and tree trimming, debris clearing, and invasive plant removal. Required work to be done by strict deadlines."
  	}],
- "volunteer": [{"name": "Member of Grey Hats at UH Manoa"}, 
+ "volunteer": [{"organization": "Member of Grey Hats at UH Manoa",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "A club about learning about cyber security"},
+	 {
+	"organization": "Member of Boy Scout Troop 730",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Research in software engineering"
+ },{
+      "organization": "Eagle Scout",
+      "website": "",
+      "position": "",
+      "startDate": "December 20, 2018",
+      "summary": "The rank of Eagle scout is the higest rank in Boy Scouts"},
+      {
+      "organization": "Member of The Live Oak Emerald Regime Marching Band",
+      "website": "",
+      "position": "",
+      "startDate": "Fall 2016",
+      "endDate": "Fall 2019",
+      },
+	{
+	"organization": "Member of Live Oak Jazz Band",
+      "website": "",
+      "position": "",
+      "startDate": "Fall 2016",
+      "endDate": "Fall 2019",
+      },
+	 {
+         "organization": "Member Live Oak Golf team",
+      "website": "",
+      "position": "",
+      "startDate": "Spring 2019",
+      "endDate": "2020"}
+	 
+	 "name": "Member of Grey Hats at UH Manoa"}, 
 		{"name": "Member of Boy Scout Troop 730"},
 		{"name": "Eagle Scout | December 20, 2018"},
-		{"name": "Member of The Live Oak Emerald Regime Marching Band | Fall 2016-2019"},
-		{"name": "Member of Live Oak Jazz Band | Spring 2018"},
-		{"name": "Member Live Oak Golf team | Spring of 2019 and 2020"}],
+		],
 	 "references": [{
       "name": "Available upon request"
     }
