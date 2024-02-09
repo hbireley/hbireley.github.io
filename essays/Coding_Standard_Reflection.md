@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Opinion on Coding Standards and how they're not necessary"
+title: "My Opinion on Coding Standards and How They're Not Necessary"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
@@ -19,7 +19,4 @@ I don't think coding style is a good way to learn a new programming language. Le
 ## Using Insecpotor like EsLint
 
 Using inspectors like ESLint is a good way to check if your code meets coding standards. I find it useful but sometimes annoying because it can be very particular about things I consider unnecessary. For example, it insists on specific spacing around parentheses and brackets and requires extra blank lines at the end of files. I don't see a problem with regulating the amount of spaces around operators; it just makes the code look cleaner and less cluttered. I like that ESLint offers simple fixes for coding standard errors, which I use frequently for ease of use. I usually write my code first and then go back to clean it up and fix all ESLint errors after confirming that it works. I appreciate that the linter provides helpful hints to simplify and improve code readability that I might not have thought of. For example, if I use an if statement in a method that returns true if the condition is true and false otherwise, the inspector might suggest simply returning the result of the condition, making the code simpler and easier to read. Overall, I like inspectors that provide hints on alternative approaches, but I dislike when they overly criticize simple coding standard syntax.
-
-
-I use ChatGPT to help me for proof reading.
 
