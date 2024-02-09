@@ -14,7 +14,7 @@ I think coding style refers to how you write code, including the way you name va
 
 ## Learning Coding standard For A new Languege
 
-I don't think coding style is a good way to learn a new programming language. Learning a new language involves understanding its syntax for variables, data types, dynamic typing, and function definitions. Some may argue that coding style is a good way to learn a new language because it aligns with industry practices. For example, using let or const instead of var for arrays in JavaScript to align with industry standards. However, I don't see it as an issue if your code differs from industry standards. As long as the code works and is readable and understandable, it's fine. We shouldn't worry about our code looking different from our peers as long as it meets these criteria.
+I don't think coding style is a good way to learn a new programming language. Learning a new language involves understanding its syntax for variables, data types, dynamic typing, and function definitions. Some may argue that coding style is a good way to learn a new language because it aligns with industry practices. For example, using `let` instead of `var` and using `const` for arrays in JavaScript to align with industry standards. However, I don't see it as an issue if your code differs from industry standards. As long as the code works and is readable and understandable, it's fine. We shouldn't worry about our code looking different from our peers as long as it meets these criteria.
 
 ## Using Insecpotor like EsLint
 
