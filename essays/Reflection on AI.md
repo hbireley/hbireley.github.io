@@ -16,10 +16,10 @@ In the rapidly evolving landscape of technology, Artificial Intelligence (AI) st
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  4. Essays 
+  1. Essays:  
 Incorporating AI has not only refined the technical aspects of my writing, enhancing grammar and punctuation, but has also elevated the overall sophistication of my ideas. Without AI, my essays often lacked the technical precision and refinement necessary to convey a more sophisticated understanding of the subject matter.
 
-  5. Final project
+  2. Final project:  
 In my final project, I have utilized AI as a resource for troubleshooting instances where I encounter unfamiliar errors. When faced with a challenging issue, AI provides insights and suggestions for resolving the problem, sometimes even executing fixes autonomously. Additionally, I've leveraged AI to refine the visual presentation of my project, assisting me in achieving the desired aesthetic outcomes when faced with design challenges.
 
 ### III. Impact on Learning and Understanding:
