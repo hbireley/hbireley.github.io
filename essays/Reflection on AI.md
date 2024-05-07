@@ -1,4 +1,15 @@
-AI Essay 
+---
+layout: essay
+type: essay
+title: "My Education friend AI"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-06
+published: true
+labels:
+  - AI
+  - Education
+---
+
 ### I. Introduction
 In the rapidly evolving landscape of technology, Artificial Intelligence (AI) stands out as a transformative force reshaping various industries, including education and software engineering. AI's integration into education has the potential to revolutionize learning methodologies, making education more personalized, accessible, and efficient. Similarly, in the field of Software Engineering, AI is driving significant advancements, automating tasks, enhancing productivity, and paving the way for innovative software solutions.
 
