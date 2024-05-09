@@ -12,6 +12,7 @@ summary: "A Bank Database using linked list in C and C++"
 
 <img class="img-fluid" src="../img/vacay/bank.png">
 
-Used C and C++ to write a bank database and user interface including add, delete, find, and print all functions. It allows the user to determine how many record entries the database has. It uses dynamic memory allocation to make a linked list of data as the database. It has a user interface where the user can choose a menu option.
+Utilizing C and C++, a comprehensive bank database was developed with an integrated user interface. The system includes functionalities such as adding, deleting, finding, and printing all records. It offers the flexibility for the user to determine the number of record entries within the database. Dynamic memory allocation was implemented to create a linked list structure for storing the database entries, ensuring efficient management of data.
 
-From doing this project I learned how to manipulate pointers in C and C++ to make a singly linked list. I also learned the importance of the order that you check your conditions in if statements when working with pointers. It is good to not jump right into coding when you get a problem, you need to try to figure out the steps you will take to get to the solution of the problem first.
+
+Through this project, I gained valuable insights into manipulating pointers in both C and C++, particularly in the context of constructing a singly linked list. I also learned about the critical importance of the order in which conditions are checked within if statements when working with pointers, emphasizing the need for a systematic approach to problem-solving. This project underscored the value of careful planning and strategizing before diving into coding, highlighting the significance of outlining the steps required to reach a solution.
