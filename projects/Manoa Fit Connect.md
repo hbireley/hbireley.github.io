@@ -22,6 +22,6 @@ My primary responsibility was the implementation of the Progress Tracker Page, a
 This project taught me valuable lessons in teamwork and project management. I learned the importance of respecting teammates' time and addressing any blockers they may encounter. We utilized issue-based project management to divide tasks efficiently, although some degree of trust and patience was still necessary. Additionally, I acquired practical skills in working with MongoDB collections, including data manipulation and display, and gained insights into equitable workload distribution among team members.
 
 
-If you want more information go to https://manoa-fit-connect.github.io/
+If you want more information go to <a href="https://manoa-fit-connect.github.io/">https://manoa-fit-connect.github.io/</a>
 
-To see the App go to https://manoafitconnect.com/
+To see the App go to <a href="https://manoafitconnect.com/">https://manoafitconnect.com/</a>
