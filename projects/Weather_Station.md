@@ -14,7 +14,9 @@ summary: "Recorded weather using Raspberry Pi sensors, stored values in a cloud-
 
 <img class="img-fluid" src="../img/weather.PNG">
 
-Recorded weather using Raspberry Pi sensors, stored values in a cloud-based database. Computed averages, low and high temperatures using C and SQL. It captured weather data for three days and the data was usable by weather companies. I learned how to do database programming and using Raspberry Pi sensors.
+Using Raspberry Pi sensors, weather data was recorded and stored in a cloud-based database. The system computed averages, low and high temperatures using a combination of C and SQL. This data collection spanned three days and was designed to be accessible and usable by weather companies for analysis and forecasting purposes.
 
-From doing this project I learned that you can do a lot with Raspberry Pi and how versatile it is. I learned how to hook up sensors to a Raspberry Pi to read the temperature and to print out words to a screen. This was my first time doing database programming so learning how to do that was different and fun. I can transfer this knowledge to jobs because many companies use databases in some ways to store data.
+This project provided valuable hands-on experience in database programming and interfacing with Raspberry Pi sensors. It demonstrated the versatility of the Raspberry Pi platform, showcasing its ability to handle sensor data and interact with cloud services. Additionally, it served as an introduction to database programming, highlighting the process of storing and manipulating data efficiently.
+
+Through this project, I discovered the extensive capabilities of Raspberry Pi and gained practical skills in sensor interfacing and database programming. This newfound knowledge can be applied to various job roles, as many companies utilize databases for storing and analyzing data.
 
