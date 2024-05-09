@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/homelogo.png
+title: "Manoa Fit Connect"
 date: 2014
 published: true
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: "An app to find workout buddies at the University of Hawaii Manoa"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/homelogo.png">
 
 I collaborated with a team to develop a fitness app tailored for individuals seeking workout partners at the University of Hawaii Manoa. Leveraging Meteor and React, our app allows users to create profiles detailing their interests, fitness goals, experience levels, and availability, facilitating connections with fellow university members. Additionally, the app features an event notification system, showcasing gym events and attendance numbers, enhancing user engagement. Users can also track their fitness progress, providing valuable insights into their journey.
 
@@ -23,3 +23,5 @@ This project taught me valuable lessons in teamwork and project management. I le
 
 
 If you want more information go to https://manoa-fit-connect.github.io/
+
+To see the App go to https://manoafitconnect.com/
