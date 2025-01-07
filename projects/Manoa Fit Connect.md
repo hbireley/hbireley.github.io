@@ -24,4 +24,4 @@ This project taught me valuable lessons in teamwork and project management. I le
 
 If you want more information go to <a href="https://manoa-fit-connect.github.io/">https://manoa-fit-connect.github.io/</a>
 
-To see the App go to <a href="https://manoafitconnect.com/">https://manoafitconnect.com/</a>
+
