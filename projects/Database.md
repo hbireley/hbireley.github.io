@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="300px src="img/Database.png">
+image: img/Database.png
 title: "Database Software Development"
 date: 2024
 published: true
