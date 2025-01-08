@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Database.png
+image: img/database.webp
 title: "Database Software Development"
 date: 2024
 published: true
