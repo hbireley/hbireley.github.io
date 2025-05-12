@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "My Opinion on Coding Standards and How They're Not Necessary"
+title: "Experiencing Real-World Software Engineering Through ICS 414"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2025-05-11
 published: true
 labels:
-  - Coding
+  - Software Engineering
 ---
 
 
